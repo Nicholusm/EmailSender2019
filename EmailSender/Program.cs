@@ -24,6 +24,7 @@ namespace EmailSender
             string saMailer = "";
             string lesothoMailer = "";
             string tanzaniaMailer = "";
+            //changes
 
 
             BusinessLogic businessLogic = new BusinessLogic();
